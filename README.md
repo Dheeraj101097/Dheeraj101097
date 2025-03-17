@@ -94,12 +94,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250">
 </p>
 
+
+
 <style>
-  .hover-effect {
+  a img {
     transition: transform 0.3s ease, filter 0.3s ease;
   }
-  .hover-effect:hover {
+  a img:hover {
     transform: scale(1.1);
-    filter: drop-shadow(0 0 8px #ff6600);
+    filter: brightness(1.2);
   }
 </style>
