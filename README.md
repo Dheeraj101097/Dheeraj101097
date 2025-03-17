@@ -21,34 +21,43 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### 💻 Frontend
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img class="hover-effect" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img class="hover-effect" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> </a>
+## Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
 
-### ⚙️ Backend
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/> </a>
+## Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
 </p>
 
-### 🗄️ Database
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img class="hover-effect" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a>
+## Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 </p>
 
-### 🔧 Tools & Other Technologies
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"> <img class="hover-effect" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> </a>
-  <a href="https://postman.com" target="_blank"> <img class="hover-effect" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> </a>
+## Embedded Systems & Electronics
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Embedded Systems">
 </p>
+
+# 📌 Projects
+- **Weather App** 🌤️ - Built with React and OpenWeather API
+- **Recipe Finder** 🍽️ - A meal search app using TheMealDB API
+- **IoT Dashboard** 📡 - Real-time ESP32 sensor data visualization with MERN stack
 
 ---
 
