@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#ff6600;">Dheeraj Patnaik</span></h1>
+<!-- <h1 align="center">Hi 👋, I'm <span style="color:#ff6600;">Dheeraj Patnaik</span></h1>
 <h3 align="center" style="color:#3399ff;">MERN Stack Developer | IoT Enthusiast | Tech Innovator</h3>
 
 <p align="center">
@@ -104,4 +104,72 @@
     transform: scale(1.1);
     filter: brightness(1.2);
   }
-</style>
+</style> -->
+
+<div align="center">
+  <h1 align="center">Hi there, I'm <span style="color:#ff6600;">Dheeraj Patnaik</span> 👋</h1>
+  <h3 align="center">Embedded Systems Developer | AIoT Innovator | TinyML Enthusiast</h3>
+  
+  <p align="center">
+    <b>Building intelligent edge devices that connect to the cloud.</b><br>
+    Specializing in End-to-End Product Development: <i>Hardware → Firmware → Cloud → App</i>.
+  </p>
+
+  <p align="center">
+    <a href="https://dheerajportfolio-seven.vercel.app/"><strong>🌐 Portfolio</strong></a> •
+    <a href="https://linkedin.com/in/dheerajpatnaik"><strong>👔 LinkedIn</strong></a> •
+    <a href="mailto:dheerajap6@gmail.com"><strong>📧 Email Me</strong></a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently building **"Doro" – An AI Companion for Kids** 🧸 using ESP32 & TinyML.
+- 🛠️ My core stack is **ESP-IDF, FreeRTOS, AWS IoT, and PCB Design**.
+- 🌱 I’m currently exploring **Edge Impulse** for running AI models on microcontrollers.
+- 🎓 I turn complex hardware constraints into seamless user experiences.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Firmware & AI** | ![C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TinyML](https://img.shields.io/badge/TinyML-3776AB?style=flat-square&logo=python&logoColor=white) ![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-172B4D?style=flat-square&logo=edgeimpulse&logoColor=white) |
+| **Hardware & Tools** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![EasyEDA](https://img.shields.io/badge/PCB%20Design-000000?style=flat-square&logo=easyeda&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Cloud & Connectivity** | ![AWS IoT](https://img.shields.io/badge/AWS%20IoT-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat-square&logo=wi-fi&logoColor=white) ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) |
+| **IoT Dashboards** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+
+---
+
+### 📌 Featured Projects
+
+1.  **AI Companion for Kids (Current)** 🧸
+    * *Tech:* ESP32-S3, AWS IoT, TinyML (Wakeword), React Native.
+    * A smart toy that uses voice interaction to tell stories and engage children, featuring secure IoT auth and OTA updates.
+
+2.  **Flood Monitoring System** 🌊
+    * *Tech:* LoRaWAN, ESP32, Cloud Dashboard.
+    * Real-time water level detection system with long-range communication for early disaster warning.
+
+3.  **IoT Dashboard** 📡
+    * *Tech:* MERN Stack, MQTT.
+    * Full-stack visualization platform for real-time sensor data.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj101097&show_icons=true&theme=minimal&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj101097&layout=compact&theme=minimal&hide_border=true&bg_color=0d1117&text_color=c9d1d9" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://linkedin.com/in/dheerajpatnaik">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
